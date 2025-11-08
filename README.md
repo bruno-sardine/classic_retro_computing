@@ -1,0 +1,1 @@
+While working on vintage computers and game consoles, I often come across old documents that have seen better days—faded photocopies, handwritten schematics, and incomplete notes. This repository is where I recreate and preserve those pieces, both for my own reference and for anyone else tinkering with the same classic machines.
